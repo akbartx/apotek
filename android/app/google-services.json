@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "988226882700",
+    "firebase_url": "https://apoteku-f3912-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "apoteku-f3912",
+    "storage_bucket": "apoteku-f3912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988226882700:android:e7c31c57c8b66239c47fa9",
+        "android_client_info": {
+          "package_name": "com.aplikasi.apoteku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUiTJtrgEuX2i9OAU1nJ9NZOefToYGUkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
